@@ -1,0 +1,87 @@
+.j-form {
+  text-align: center;
+}
+
+.label {
+  float: left;
+  width: 100px;
+  margin: 10px;
+  padding-bottom: 5px;
+}
+
+input,
+.input {
+  float: right;
+  width: 200px;
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+textarea {
+  width: 200px;
+  float: right;
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+.button-form {
+  width: 60px;
+  margin: 20px;
+}
+
+.box-button {
+  text-align: center;
+}
+
+.box-input {
+  height: 80px;
+}
+
+.open-modal {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.date {
+  float: right;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.box-content {
+  padding: 10px;
+  border: 1px solid lightgray;
+}
+
+.content {
+  width: 260px;
+  float: left;
+}
+
+.data-img {
+  width: 200px;
+  height: auto;
+  margin: 0;
+  padding: 5px;
+  text-align: right;
+}
+
+.valid {
+  margin-left: 140px;
+}
+
+.remove {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
